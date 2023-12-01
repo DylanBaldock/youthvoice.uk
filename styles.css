@@ -3,4 +3,5 @@
   display: flex;
   background-color: #ff9a98;
   flex-flow: row wrap;
+  align-items: center;
 }
