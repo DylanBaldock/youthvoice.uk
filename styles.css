@@ -1,5 +1,6 @@
 .main {
   font-family: sans-serif;
-  direction: flex;
-  background-color: red;
+  display: flex;
+  background-color: "#ff9a98";
+  flex-direction: row;
 }
