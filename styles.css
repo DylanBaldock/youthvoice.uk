@@ -1,8 +1,8 @@
 .main {
   font-family: sans-serif;
   display: flex;
+  height: 400px;
   background-color: #ff9a98;
-  flex-flow: row wrap;
+  justify-content: center;
   align-items: center;
-  align-content: space-between;
 }
